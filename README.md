@@ -1,4 +1,4 @@
-Read the full paper here: [ResearchGate](http://dx.doi.org/10.13140/RG.2.2.22511.61602)
+Read the full paper here: [ResearchGate](https://www.researchgate.net/publication/377028552_Extracting_Topographical_Features_Using_a_U-NET)
 
 We propose the development of an automated system to extract topographical features from geographical data. The goal is to design a sophisticated algorithm or tool capable of autonomously identifying and outlining key elements of the terrain, such as changes in elevation, landforms, and other relevant topographic characteristics, without requiring manual intervention. This project addresses such a system by proposing extract features with the help of a U-NET. We introduce the task of translating satellite images into binary masks representing road networks, and complement such an approach with complete datasets and training. We thus present the applications of such a pipeline into extracting any topographical features through image data.
 
